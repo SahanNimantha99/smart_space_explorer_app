@@ -2,7 +2,9 @@
 
 Welcome to SpaceExplorerApp, your portal to the wonders of the cosmos! This Flutter project is designed to ignite your curiosity about the universe and provide you with a thrilling journey through the vast expanse of space.
 
-![SpaceExplorerApp](https://example.com/space_explorer_app_screenshot.png)
+<div align="center">
+<img src="./docs/assets/readme/logo.jpg" width="10000" height="500">
+</div>
 
 ## Getting Started
 
