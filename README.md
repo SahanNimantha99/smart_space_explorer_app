@@ -3,7 +3,7 @@
 Welcome to SpaceExplorerApp, your portal to the wonders of the cosmos! This Flutter project is designed to ignite your curiosity about the universe and provide you with a thrilling journey through the vast expanse of space.
 
 <div align="center">
-<img src="./docs/assets/readme/logo.jpg" width="5000" height="500">
+<img src="./docs/assets/readme/logo.jpg">
 </div>
 
 ## Getting Started
